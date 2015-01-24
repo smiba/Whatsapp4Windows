@@ -10,3 +10,9 @@ You need to enter your phone number like 3112345678 in the textbox, do not use a
 
 
 *Use a Search engine of choice to find how to get your whatsapp key or try to use the get key interface (its kinda working).
+
+-------------------
+   Dependencies 
+-------------------
+WhatsAPINet (https://github.com/perezdidac/WhatsAPINet)
+System.Data.SQLite (http://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki)
